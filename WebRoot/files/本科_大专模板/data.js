@@ -1,0 +1,1652 @@
+﻿$axure.loadCurrentPage({
+  "url":"本科_大专模板.html",
+  "generationDate":new Date(1432187597611.73),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7883b45907324d259aee52a58d2cf2e6",
+    "type":"Axure:Page",
+    "name":"本科/大专模板",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c3b8ab00f1a8406189b2d7df534b3a62",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"030ad16089984aab8ee4c9e9409d1f39"},
+{
+          "id":"2c9e28e2c21645809a7ac15d1abeba6c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Bold', '应用字体'",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":123,
+              "y":64},
+            "size":{
+              "width":171,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7d2d29d9eede494582667eac5baee280",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Bold', '应用字体'",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":123,
+                  "y":64},
+                "size":{
+                  "width":171,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1254154317ce4d4eb30f8f0905468713",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":120,
+              "y":150},
+            "size":{
+              "width":554,
+              "height":92}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40550615041f413dbbc1bc06575090ed",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "size":{
+                  "width":46,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ffaa52f6a62748bebe5b994b08e84717",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "size":{
+                      "width":46,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u1.png"}},
+{
+              "id":"2f3827f76b0644d9b77970397ae3892e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":30},
+                "size":{
+                  "width":46,
+                  "height":32}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"eb4a02ed50904e749471867650787db9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":30},
+                    "size":{
+                      "width":46,
+                      "height":32}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u11.png"}},
+{
+              "id":"2cd9b06d05064e7d8c0ae5a048097105",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":46,
+                  "y":0},
+                "size":{
+                  "width":127,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"606d66d7e0734db08dfa032ab566d280",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":46,
+                      "y":0},
+                    "size":{
+                      "width":127,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/招聘信息管理/u14.png"}},
+{
+              "id":"0db11b9acffd45198dbf99b9e9f00220",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":46,
+                  "y":30},
+                "size":{
+                  "width":127,
+                  "height":32}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2cb1ee3c9d634075bb8e586050684934",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
+                    "location":{
+                      "x":46,
+                      "y":30},
+                    "size":{
+                      "width":127,
+                      "height":32}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u13.png"}},
+{
+              "id":"3dc013cbe0654209bf96de98e0153a8a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":310,
+                  "y":0},
+                "size":{
+                  "width":89,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9325e4e2323c413cbdffa1878b698964",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":310,
+                      "y":0},
+                    "size":{
+                      "width":89,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/招聘信息管理/u24.png"}},
+{
+              "id":"590c57d159574159bc75435b8dedaed8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":310,
+                  "y":30},
+                "size":{
+                  "width":89,
+                  "height":32}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"cf93154f4db4450988cfb9a7a95ead2a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":310,
+                      "y":30},
+                    "size":{
+                      "width":89,
+                      "height":32}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u17.png"}},
+{
+              "id":"ba72a552ca954965b27fdba507a12eb8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":173,
+                  "y":0},
+                "size":{
+                  "width":137,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"546942c9ecca498bb9454bde01487d20",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":173,
+                      "y":0},
+                    "size":{
+                      "width":137,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/招聘信息管理/u22.png"}},
+{
+              "id":"c6af99883a22438d8d8815519e9a55c6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":173,
+                  "y":30},
+                "size":{
+                  "width":137,
+                  "height":32}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b1804d11f61a47bd852fab06a29be86d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":173,
+                      "y":30},
+                    "size":{
+                      "width":137,
+                      "height":32}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u15.png"}},
+{
+              "id":"a4b185feec5b49288ec063e952fba8e7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":399,
+                  "y":0},
+                "size":{
+                  "width":155,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"784ecb9fcb734aa7abfe637e9e45cfdb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":399,
+                      "y":0},
+                    "size":{
+                      "width":155,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u9.png"}},
+{
+              "id":"c8752c66afe64a6f9153d4cb2fd41a06",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "underline":true,
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0066FF,
+                  "opacity":1},
+                "location":{
+                  "x":399,
+                  "y":30},
+                "size":{
+                  "width":155,
+                  "height":32}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"939844eac63a4e5a86dee55b15aaa091",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "underline":true,
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0066FF,
+                      "opacity":1},
+                    "location":{
+                      "x":399,
+                      "y":30},
+                    "size":{
+                      "width":155,
+                      "height":32}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u19.png"}},
+{
+              "id":"f743d4842b7a406c8e09ced15bde72bc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":62},
+                "size":{
+                  "width":46,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0fd3eac9efa44eae97c35d8abfbc9fc3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":62},
+                    "size":{
+                      "width":46,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u21.png"}},
+{
+              "id":"ecdc0d34bf5a4f5d82e4111d60f0cf3c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":46,
+                  "y":62},
+                "size":{
+                  "width":127,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b81abfb069304d8c98b58d01b2b83bf1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":46,
+                      "y":62},
+                    "size":{
+                      "width":127,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/招聘信息管理/u112.png"}},
+{
+              "id":"5e7f3999adf84e1d85f4b5b5a90c60ea",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":173,
+                  "y":62},
+                "size":{
+                  "width":137,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e44a554df9164119aa406c3d4b052d86",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":173,
+                      "y":62},
+                    "size":{
+                      "width":137,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/招聘信息管理/u120.png"}},
+{
+              "id":"25bcfd0730c548eb9adb072ed25ad735",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":310,
+                  "y":62},
+                "size":{
+                  "width":89,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5351e650d0d24d05a27968e63be7572d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":310,
+                      "y":62},
+                    "size":{
+                      "width":89,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/招聘信息管理/u122.png"}},
+{
+              "id":"0e153f885b304bcb9f13e27bd8622ee9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "underline":true,
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0066FF,
+                  "opacity":1},
+                "location":{
+                  "x":399,
+                  "y":62},
+                "size":{
+                  "width":155,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c0cef04a4d86442ea2507e688b664a25",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "underline":true,
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0066FF,
+                      "opacity":1},
+                    "location":{
+                      "x":399,
+                      "y":62},
+                    "size":{
+                      "width":155,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/硕士模板/u29.png"}}]},
+{
+          "id":"4826c6c958ef4db0875bdc8657da1db3",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":240,
+              "y":110},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 本科/大专基础模板 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"本科_大专基础模板.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"baa3f06083f844359abfad77cfb4c6a9",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":360,
+              "y":110},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 本科/大专基础模板 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"本科_大专基础模板.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"b5c2a026a776471cb056b8b998ab79f7",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":120,
+              "y":110},
+            "size":{
+              "width":100,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 新增扩展项 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"新增扩展项.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+    "030ad16089984aab8ee4c9e9409d1f39":{
+      "packageId":"030ad16089984aab8ee4c9e9409d1f39",
+      "type":"Axure:Master",
+      "name":"人才招聘管理系统后台",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"9232e32197a446c6ab3ac4fe47afb413",
+            "label":"",
+            "type":"menuObject",
+            "styleType":"menuObject",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":3,
+                "y":86},
+              "size":{
+                "width":94,
+                "height":206}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"988f442a183f4ee88509cc6f7639e83e",
+                "label":"",
+                "type":"table",
+                "styleType":"table",
+                "visible":true,
+                "style":{
+                  "fontName":"'应用字体 Regular', '应用字体'",
+                  "location":{
+                    "x":1,
+                    "y":1},
+                  "size":{
+                    "width":92,
+                    "height":204}},
+                "adaptiveStyles":{
+},
+                "objects":[{
+                    "id":"fed27e3024fc4271bf03fd915426fc55",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'应用字体 Regular', '应用字体'",
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "size":{
+                        "width":92,
+                        "height":40}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"28425b724562437284c1b3413ebfbc1b",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "size":{
+                            "width":92,
+                            "height":40}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open 招聘信息管理 in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"招聘信息管理.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/招聘信息管理/u148.png"}},
+{
+                    "id":"7cc6daf02f5846e488a2e43229e8cbdb",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'应用字体 Regular', '应用字体'",
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "location":{
+                        "x":0,
+                        "y":40},
+                      "size":{
+                        "width":92,
+                        "height":41}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"34f6be30c9ec4109a5627e1ea10be8a3",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "location":{
+                            "x":0,
+                            "y":40},
+                          "size":{
+                            "width":92,
+                            "height":41}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open 简历模板管理 in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"简历模板管理.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/招聘信息管理/u150.png"}},
+{
+                    "id":"6beabc4a41534830ae47bf6e5f5ac0cf",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'应用字体 Regular', '应用字体'",
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "location":{
+                        "x":0,
+                        "y":81},
+                      "size":{
+                        "width":92,
+                        "height":41}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"8dc40013972144dd844af24ead8557cb",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "location":{
+                            "x":0,
+                            "y":81},
+                          "size":{
+                            "width":92,
+                            "height":41}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open 求职管理 in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"求职管理.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/招聘信息管理/u150.png"}},
+{
+                    "id":"60510bcddbd34329b465172645d875fe",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'应用字体 Regular', '应用字体'",
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "location":{
+                        "x":0,
+                        "y":122},
+                      "size":{
+                        "width":92,
+                        "height":41}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"89165b05ac1840c587b8073c47727ae5",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "location":{
+                            "x":0,
+                            "y":122},
+                          "size":{
+                            "width":92,
+                            "height":41}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open 通知公告 in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"通知公告.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/招聘信息管理/u150.png"}},
+{
+                    "id":"100a2cff887c468f84258eb7cf40101f",
+                    "label":"",
+                    "type":"tableCell",
+                    "styleType":"tableCell",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'应用字体 Regular', '应用字体'",
+                      "horizontalAlignment":"center",
+                      "verticalAlignment":"middle",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF},
+                      "location":{
+                        "x":0,
+                        "y":163},
+                      "size":{
+                        "width":92,
+                        "height":41}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"fd9868620ceb4fba841cce604260b30c",
+                        "label":"",
+                        "isContained":true,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "location":{
+                            "x":0,
+                            "y":163},
+                          "size":{
+                            "width":92,
+                            "height":41}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open 用户管理 in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"用户管理.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/招聘信息管理/u156.png"}}]},
+{
+                "id":"232cc5fe273e448baa605b9679ab1ea8",
+                "label":"",
+                "type":"menuObject",
+                "styleType":"menuObject",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":93,
+                    "y":1},
+                  "size":{
+                    "width":102,
+                    "height":68},
+                  "limbo":false},
+                "adaptiveStyles":{
+},
+                "objects":[{
+                    "id":"99399b02f1d643098b720d4f14369786",
+                    "label":"",
+                    "type":"table",
+                    "styleType":"table",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'应用字体 Regular', '应用字体'",
+                      "location":{
+                        "x":1,
+                        "y":1},
+                      "size":{
+                        "width":100,
+                        "height":66}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"8323f9cffe7e4cd08a4ec28dcd3fa16e",
+                        "label":"",
+                        "type":"tableCell",
+                        "styleType":"tableCell",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "size":{
+                            "width":100,
+                            "height":33},
+                          "limbo":false},
+                        "adaptiveStyles":{
+},
+                        "objects":[{
+                            "id":"7dfe4ab4347a4ec8b511ac98b57dad5d",
+                            "label":"",
+                            "isContained":true,
+                            "type":"richTextPanel",
+                            "styleType":"paragraph",
+                            "visible":true,
+                            "style":{
+                              "fontName":"'应用字体 Regular', '应用字体'",
+                              "horizontalAlignment":"center",
+                              "verticalAlignment":"middle",
+                              "fill":{
+                                "fillType":"solid",
+                                "color":0xFFFFFF},
+                              "size":{
+                                "width":100,
+                                "height":33},
+                              "limbo":false},
+                            "adaptiveStyles":{
+}}],
+                        "interactionMap":{
+                          "onClick":{
+                            "description":"OnClick",
+                            "cases":[{
+                                "description":"用例 1",
+                                "isNewIfGroup":false,
+                                "actions":[{
+                                    "action":"linkWindow",
+                                    "description":"Open 新增招聘信息 in Current Window",
+                                    "target":{
+                                      "targetType":"page",
+                                      "url":"新增招聘信息.html",
+                                      "includeVariables":true},
+                                    "linkType":"current"}]}]}},
+                        "tabbable":true,
+                        "images":{
+                          "normal~":"images/招聘信息管理/u160.png"}},
+{
+                        "id":"c45240286e9d4788aa19b732de47b8ec",
+                        "label":"",
+                        "type":"tableCell",
+                        "styleType":"tableCell",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "location":{
+                            "x":0,
+                            "y":33},
+                          "size":{
+                            "width":100,
+                            "height":33},
+                          "limbo":false},
+                        "adaptiveStyles":{
+},
+                        "objects":[{
+                            "id":"31abfc6f378c42999e2ed0eb20851788",
+                            "label":"",
+                            "isContained":true,
+                            "type":"richTextPanel",
+                            "styleType":"paragraph",
+                            "visible":true,
+                            "style":{
+                              "fontName":"'应用字体 Regular', '应用字体'",
+                              "horizontalAlignment":"center",
+                              "verticalAlignment":"middle",
+                              "fill":{
+                                "fillType":"solid",
+                                "color":0xFFFFFF},
+                              "location":{
+                                "x":0,
+                                "y":33},
+                              "size":{
+                                "width":100,
+                                "height":33},
+                              "limbo":false},
+                            "adaptiveStyles":{
+}}],
+                        "interactionMap":{
+                          "onClick":{
+                            "description":"OnClick",
+                            "cases":[{
+                                "description":"用例 1",
+                                "isNewIfGroup":false,
+                                "actions":[{
+                                    "action":"linkWindow",
+                                    "description":"Open 招聘信息详情 in Current Window",
+                                    "target":{
+                                      "targetType":"page",
+                                      "url":"招聘信息详情.html",
+                                      "includeVariables":true},
+                                    "linkType":"current"}]}]}},
+                        "tabbable":true,
+                        "images":{
+                          "normal~":"images/招聘信息管理/u162.png"}}]}],
+                "parentCellId":"fed27e3024fc4271bf03fd915426fc55"},
+{
+                "id":"657a840bbdc540a98b516330bc563ca0",
+                "label":"",
+                "type":"menuObject",
+                "styleType":"menuObject",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":93,
+                    "y":82},
+                  "size":{
+                    "width":102,
+                    "height":30},
+                  "limbo":false},
+                "adaptiveStyles":{
+},
+                "objects":[{
+                    "id":"9520925f43104ff19c135876b0a876ee",
+                    "label":"",
+                    "type":"table",
+                    "styleType":"table",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'应用字体 Regular', '应用字体'",
+                      "location":{
+                        "x":1,
+                        "y":1},
+                      "size":{
+                        "width":100,
+                        "height":28}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"dd6a6aa65d7c49c08eaf2897402c1774",
+                        "label":"",
+                        "type":"tableCell",
+                        "styleType":"tableCell",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'应用字体 Regular', '应用字体'",
+                          "horizontalAlignment":"center",
+                          "verticalAlignment":"middle",
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF},
+                          "size":{
+                            "width":100,
+                            "height":28},
+                          "limbo":false},
+                        "adaptiveStyles":{
+},
+                        "objects":[{
+                            "id":"4ca2153f19564050b1b0b79d048af6be",
+                            "label":"",
+                            "isContained":true,
+                            "type":"richTextPanel",
+                            "styleType":"paragraph",
+                            "visible":true,
+                            "style":{
+                              "fontName":"'应用字体 Regular', '应用字体'",
+                              "horizontalAlignment":"center",
+                              "verticalAlignment":"middle",
+                              "fill":{
+                                "fillType":"solid",
+                                "color":0xFFFFFF},
+                              "size":{
+                                "width":100,
+                                "height":28},
+                              "limbo":false},
+                            "adaptiveStyles":{
+}}],
+                        "interactionMap":{
+                          "onClick":{
+                            "description":"OnClick",
+                            "cases":[{
+                                "description":"用例 1",
+                                "isNewIfGroup":false,
+                                "actions":[{
+                                    "action":"linkWindow",
+                                    "description":"Open 求职简历 in Current Window",
+                                    "target":{
+                                      "targetType":"page",
+                                      "url":"求职简历.html",
+                                      "includeVariables":true},
+                                    "linkType":"current"}]}]}},
+                        "tabbable":true,
+                        "images":{
+                          "normal~":"images/招聘信息管理/u166.png"}}]}],
+                "parentCellId":"6beabc4a41534830ae47bf6e5f5ac0cf"}]},
+{
+            "id":"77952284bd3b4c3697e2e700fa8e9f69",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'应用字体 Regular', '应用字体'",
+              "location":{
+                "x":10,
+                "y":10},
+              "size":{
+                "width":240,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"8605d38b30644110a6b7d7589b917ffe",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'应用字体 Regular', '应用字体'",
+                  "location":{
+                    "x":10,
+                    "y":10},
+                  "size":{
+                    "width":240,
+                    "height":40}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/人才招聘管理系统后台/u7.png"}},
+{
+            "id":"52b40107394d4a95973feb78feef7962",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h1",
+            "visible":true,
+            "style":{
+              "fontName":"'应用字体 Regular', '应用字体'",
+              "location":{
+                "x":266,
+                "y":12},
+              "size":{
+                "width":366,
+                "height":38}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"6d6781c266174d28a530084ef993c2e5",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'应用字体 Regular', '应用字体'",
+                  "location":{
+                    "x":266,
+                    "y":12},
+                  "size":{
+                    "width":366,
+                    "height":38}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"de5b16e20ea14d4ca5b691a7d6e768a7",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'应用字体 Regular', '应用字体'",
+              "location":{
+                "x":970,
+                "y":63},
+              "size":{
+                "width":88,
+                "height":16}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"4b9c250708264d5caf1ddcf8c5b4a78d",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'应用字体 Regular', '应用字体'",
+                  "location":{
+                    "x":970,
+                    "y":63},
+                  "size":{
+                    "width":88,
+                    "height":16}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"4e54640567e942f78265fdbc723ce477",
+            "label":"",
+            "type":"horizontalLine",
+            "styleType":"horizontalLine",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":114,
+                "y":80},
+              "size":{
+                "width":1000,
+                "height":10}},
+            "adaptiveStyles":{
+},
+            "images":{
+              "start~":"resources/images/transparent.gif",
+              "end~":"resources/images/transparent.gif",
+              "line~":"images/人才招聘管理系统后台/u11_line.png"}}]}}},
+  "objectPaths":{
+    "c3b8ab00f1a8406189b2d7df534b3a62":{
+      "scriptId":"u0",
+      "9232e32197a446c6ab3ac4fe47afb413":{
+        "scriptId":"u1"},
+      "988f442a183f4ee88509cc6f7639e83e":{
+        "scriptId":"u2"},
+      "fed27e3024fc4271bf03fd915426fc55":{
+        "scriptId":"u3"},
+      "28425b724562437284c1b3413ebfbc1b":{
+        "scriptId":"u4"},
+      "7cc6daf02f5846e488a2e43229e8cbdb":{
+        "scriptId":"u5"},
+      "34f6be30c9ec4109a5627e1ea10be8a3":{
+        "scriptId":"u6"},
+      "6beabc4a41534830ae47bf6e5f5ac0cf":{
+        "scriptId":"u7"},
+      "8dc40013972144dd844af24ead8557cb":{
+        "scriptId":"u8"},
+      "60510bcddbd34329b465172645d875fe":{
+        "scriptId":"u9"},
+      "89165b05ac1840c587b8073c47727ae5":{
+        "scriptId":"u10"},
+      "100a2cff887c468f84258eb7cf40101f":{
+        "scriptId":"u11"},
+      "fd9868620ceb4fba841cce604260b30c":{
+        "scriptId":"u12"},
+      "232cc5fe273e448baa605b9679ab1ea8":{
+        "scriptId":"u13"},
+      "99399b02f1d643098b720d4f14369786":{
+        "scriptId":"u14"},
+      "8323f9cffe7e4cd08a4ec28dcd3fa16e":{
+        "scriptId":"u15"},
+      "7dfe4ab4347a4ec8b511ac98b57dad5d":{
+        "scriptId":"u16"},
+      "c45240286e9d4788aa19b732de47b8ec":{
+        "scriptId":"u17"},
+      "31abfc6f378c42999e2ed0eb20851788":{
+        "scriptId":"u18"},
+      "657a840bbdc540a98b516330bc563ca0":{
+        "scriptId":"u19"},
+      "9520925f43104ff19c135876b0a876ee":{
+        "scriptId":"u20"},
+      "dd6a6aa65d7c49c08eaf2897402c1774":{
+        "scriptId":"u21"},
+      "4ca2153f19564050b1b0b79d048af6be":{
+        "scriptId":"u22"},
+      "77952284bd3b4c3697e2e700fa8e9f69":{
+        "scriptId":"u23"},
+      "8605d38b30644110a6b7d7589b917ffe":{
+        "scriptId":"u24"},
+      "52b40107394d4a95973feb78feef7962":{
+        "scriptId":"u25"},
+      "6d6781c266174d28a530084ef993c2e5":{
+        "scriptId":"u26"},
+      "de5b16e20ea14d4ca5b691a7d6e768a7":{
+        "scriptId":"u27"},
+      "4b9c250708264d5caf1ddcf8c5b4a78d":{
+        "scriptId":"u28"},
+      "4e54640567e942f78265fdbc723ce477":{
+        "scriptId":"u29"}},
+    "2c9e28e2c21645809a7ac15d1abeba6c":{
+      "scriptId":"u30"},
+    "7d2d29d9eede494582667eac5baee280":{
+      "scriptId":"u31"},
+    "1254154317ce4d4eb30f8f0905468713":{
+      "scriptId":"u32"},
+    "40550615041f413dbbc1bc06575090ed":{
+      "scriptId":"u33"},
+    "ffaa52f6a62748bebe5b994b08e84717":{
+      "scriptId":"u34"},
+    "2cd9b06d05064e7d8c0ae5a048097105":{
+      "scriptId":"u35"},
+    "606d66d7e0734db08dfa032ab566d280":{
+      "scriptId":"u36"},
+    "ba72a552ca954965b27fdba507a12eb8":{
+      "scriptId":"u37"},
+    "546942c9ecca498bb9454bde01487d20":{
+      "scriptId":"u38"},
+    "3dc013cbe0654209bf96de98e0153a8a":{
+      "scriptId":"u39"},
+    "9325e4e2323c413cbdffa1878b698964":{
+      "scriptId":"u40"},
+    "a4b185feec5b49288ec063e952fba8e7":{
+      "scriptId":"u41"},
+    "784ecb9fcb734aa7abfe637e9e45cfdb":{
+      "scriptId":"u42"},
+    "2f3827f76b0644d9b77970397ae3892e":{
+      "scriptId":"u43"},
+    "eb4a02ed50904e749471867650787db9":{
+      "scriptId":"u44"},
+    "0db11b9acffd45198dbf99b9e9f00220":{
+      "scriptId":"u45"},
+    "2cb1ee3c9d634075bb8e586050684934":{
+      "scriptId":"u46"},
+    "c6af99883a22438d8d8815519e9a55c6":{
+      "scriptId":"u47"},
+    "b1804d11f61a47bd852fab06a29be86d":{
+      "scriptId":"u48"},
+    "590c57d159574159bc75435b8dedaed8":{
+      "scriptId":"u49"},
+    "cf93154f4db4450988cfb9a7a95ead2a":{
+      "scriptId":"u50"},
+    "c8752c66afe64a6f9153d4cb2fd41a06":{
+      "scriptId":"u51"},
+    "939844eac63a4e5a86dee55b15aaa091":{
+      "scriptId":"u52"},
+    "f743d4842b7a406c8e09ced15bde72bc":{
+      "scriptId":"u53"},
+    "0fd3eac9efa44eae97c35d8abfbc9fc3":{
+      "scriptId":"u54"},
+    "ecdc0d34bf5a4f5d82e4111d60f0cf3c":{
+      "scriptId":"u55"},
+    "b81abfb069304d8c98b58d01b2b83bf1":{
+      "scriptId":"u56"},
+    "5e7f3999adf84e1d85f4b5b5a90c60ea":{
+      "scriptId":"u57"},
+    "e44a554df9164119aa406c3d4b052d86":{
+      "scriptId":"u58"},
+    "25bcfd0730c548eb9adb072ed25ad735":{
+      "scriptId":"u59"},
+    "5351e650d0d24d05a27968e63be7572d":{
+      "scriptId":"u60"},
+    "0e153f885b304bcb9f13e27bd8622ee9":{
+      "scriptId":"u61"},
+    "c0cef04a4d86442ea2507e688b664a25":{
+      "scriptId":"u62"},
+    "4826c6c958ef4db0875bdc8657da1db3":{
+      "scriptId":"u63"},
+    "baa3f06083f844359abfad77cfb4c6a9":{
+      "scriptId":"u64"},
+    "b5c2a026a776471cb056b8b998ab79f7":{
+      "scriptId":"u65"}}});

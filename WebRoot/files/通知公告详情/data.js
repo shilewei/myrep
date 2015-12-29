@@ -1,0 +1,495 @@
+﻿$axure.loadCurrentPage({
+  "url":"通知公告详情.html",
+  "generationDate":new Date(1432187596880.73),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b59da97022cb4ee4811cdf504ab68126",
+    "type":"Axure:Page",
+    "name":"通知公告详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e086e327e6d24b92979e5d077b584fa0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":50,
+              "y":210},
+            "size":{
+              "width":260,
+              "height":610}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a504cfb61dec43a6b821286c219ac83d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":50,
+                  "y":210},
+                "size":{
+                  "width":260,
+                  "height":610}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 通知公告详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"通知公告详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/正骨医院人才招聘首页/u0.png"}},
+{
+          "id":"3119ba670aef40b8ac0b37664080e906",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":50,
+              "y":106},
+            "size":{
+              "width":260,
+              "height":74}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5bc6f028388a4104ba83cea9ad59bbcf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":50,
+                  "y":106},
+                "size":{
+                  "width":260,
+                  "height":74}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/正骨医院人才招聘首页/u18.png"}},
+{
+          "id":"479592bd687848f2a985c9710099aff4",
+          "label":"",
+          "type":"menuObject",
+          "styleType":"menuObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":112},
+            "size":{
+              "width":234,
+              "height":63}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7bc53755351e4b0ba0cd289f2700cdea",
+              "label":"",
+              "type":"table",
+              "styleType":"table",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "size":{
+                  "width":234,
+                  "height":63}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"333148cc42f84519bb57f7578ffdc6a4",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "size":{
+                      "width":234,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8a95fcf4f52f4a53b2c4eed8746e4c41",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'应用字体 Regular', '应用字体'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":234,
+                          "height":30}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/正骨医院人才招聘首页/u22.png"}},
+{
+                  "id":"1e3cb3054fcd469896c9cd0e502e58f6",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'应用字体 Regular', '应用字体'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":0,
+                      "y":30},
+                    "size":{
+                      "width":234,
+                      "height":33}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"3baba4098073436ea21ff97616ca141e",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'应用字体 Regular', '应用字体'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":0,
+                          "y":30},
+                        "size":{
+                          "width":234,
+                          "height":33}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"ed8a302262fe4fad99d2e0a07cc73d84",
+                          "label":"",
+                          "type":"hyperlink",
+                          "styleType":"hyperlink",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'应用字体 Regular', '应用字体'"},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"linkWindow",
+                                      "description":"Open 求职反馈 in Current Window",
+                                      "target":{
+                                        "targetType":"page",
+                                        "url":"求职反馈.html",
+                                        "includeVariables":true},
+                                      "linkType":"current"}]}]}},
+                          "tabbable":true}]}],
+                  "images":{
+                    "normal~":"images/正骨医院人才招聘首页/u24.png"}}]}]},
+{
+          "id":"79cb3739800a4e7987fed1ba17bd0a39",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "size":{
+              "width":1150,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aef5f9063c1149e9a0817ef08e7a842d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "size":{
+                  "width":1150,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/正骨医院人才招聘首页/u27.png"}},
+{
+          "id":"cdb907a91f784dfcac2ea133ee0d3dbc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Bold', '应用字体'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "location":{
+              "x":140,
+              "y":219},
+            "size":{
+              "width":80,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8283d0572e274d4f8fc3b3818137ba0b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Bold', '应用字体'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "location":{
+                  "x":140,
+                  "y":219},
+                "size":{
+                  "width":80,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ce5f265dc7a64f62bd51db96543453aa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":50,
+              "y":832},
+            "size":{
+              "width":270,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b360886d745147a881732798339d82a7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":50,
+                  "y":832},
+                "size":{
+                  "width":270,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6c01578aa6ef4da098a54e6d5d33e3e5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "fontSize":"14px",
+            "horizontalAlignment":"center",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":600,
+              "y":120},
+            "size":{
+              "width":200,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a71012ae5e40417d8f4ccc0f6e8a37ec",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "fontSize":"14px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":600,
+                  "y":120},
+                "size":{
+                  "width":200,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a7791ef4261e49858991dc4ad48a82e0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'应用字体 Regular', '应用字体'",
+            "location":{
+              "x":400,
+              "y":200},
+            "size":{
+              "width":600,
+              "height":400}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3390cd905ccb41c6b0759c58b7c1f151",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'应用字体 Regular', '应用字体'",
+                "location":{
+                  "x":400,
+                  "y":200},
+                "size":{
+                  "width":600,
+                  "height":400}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e086e327e6d24b92979e5d077b584fa0":{
+      "scriptId":"u0"},
+    "a504cfb61dec43a6b821286c219ac83d":{
+      "scriptId":"u1"},
+    "3119ba670aef40b8ac0b37664080e906":{
+      "scriptId":"u2"},
+    "5bc6f028388a4104ba83cea9ad59bbcf":{
+      "scriptId":"u3"},
+    "479592bd687848f2a985c9710099aff4":{
+      "scriptId":"u4"},
+    "7bc53755351e4b0ba0cd289f2700cdea":{
+      "scriptId":"u5"},
+    "333148cc42f84519bb57f7578ffdc6a4":{
+      "scriptId":"u6"},
+    "8a95fcf4f52f4a53b2c4eed8746e4c41":{
+      "scriptId":"u7"},
+    "1e3cb3054fcd469896c9cd0e502e58f6":{
+      "scriptId":"u8"},
+    "3baba4098073436ea21ff97616ca141e":{
+      "scriptId":"u9"},
+    "ed8a302262fe4fad99d2e0a07cc73d84":{
+      "scriptId":"u10"},
+    "79cb3739800a4e7987fed1ba17bd0a39":{
+      "scriptId":"u11"},
+    "aef5f9063c1149e9a0817ef08e7a842d":{
+      "scriptId":"u12"},
+    "cdb907a91f784dfcac2ea133ee0d3dbc":{
+      "scriptId":"u13"},
+    "8283d0572e274d4f8fc3b3818137ba0b":{
+      "scriptId":"u14"},
+    "ce5f265dc7a64f62bd51db96543453aa":{
+      "scriptId":"u15"},
+    "b360886d745147a881732798339d82a7":{
+      "scriptId":"u16"},
+    "6c01578aa6ef4da098a54e6d5d33e3e5":{
+      "scriptId":"u17"},
+    "a71012ae5e40417d8f4ccc0f6e8a37ec":{
+      "scriptId":"u18"},
+    "a7791ef4261e49858991dc4ad48a82e0":{
+      "scriptId":"u19"},
+    "3390cd905ccb41c6b0759c58b7c1f151":{
+      "scriptId":"u20"}}});
